@@ -7,6 +7,7 @@ import { ToasterProvider } from '@/providers/toast-provider'
 import { ThemeProvider } from '@/providers/theme-provider'
 
 
+
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
@@ -19,6 +20,7 @@ export default function RootLayout({
 }: {
   children: React.ReactNode
 }) {
+  
   return (
     <ClerkProvider>
     <html lang="en">

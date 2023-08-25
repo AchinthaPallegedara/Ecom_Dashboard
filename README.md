@@ -1,3 +1,1 @@
-
-copy&; Achintha Pallegedara
-
+Copyright © 2023 Achintha Pallegedara

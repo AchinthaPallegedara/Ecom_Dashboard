@@ -45,7 +45,7 @@ export async function POST(
       data: {
         label,
         imageUrl,
-        storeId: params.storeId
+        storeId: params.storeId,
       }
     });
   
